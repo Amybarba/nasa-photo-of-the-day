@@ -1,0 +1,17 @@
+.hd-button {
+ width: 150px;
+ padding: 12.5px 0;
+ float: center;
+ margin-top: 40px;
+ background-color: blueviolet;
+ border: 3px blue;
+ font-size: 10px;
+ font-weight: bold;
+ color: whitesmoke;
+ transition-duration: 0.2s;
+ cursor: zoom-in;   
+}
+
+/* .hd-button: hover {
+    background-color: red;
+} */

@@ -1,0 +1,19 @@
+.main-text {
+    padding: 30px 40px;
+    background-color: white;
+    color: #222;
+    width: 100%;
+  }
+  
+  .main-text p {
+    line-height: 1.5rem;
+    padding-right: 30px;
+    margin: 0;
+  }
+  
+  .inner-text {
+    width: 90%;
+    height: 70%;
+    margin-top: 20px;
+  }
+  
